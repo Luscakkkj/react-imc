@@ -130,8 +130,8 @@ body {
 
 }
 
-@media screen and (max-width:450px){
-  .grid{
+@media screen and (max-width:450px) {
+  .grid {
     grid-template-columns: 1fr
   }
 }
